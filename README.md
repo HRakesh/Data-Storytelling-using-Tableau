@@ -1,4 +1,4 @@
-# Data-Synthesis-using-Tableau
+# Data-Storytelling-using-Tableau
 
 Retail Analytics
 
